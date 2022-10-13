@@ -3,4 +3,4 @@
 
 Tech stack - Kotlin, Coroutines, Clean Architecture, Retrofit, Viewmodel, Hilt, Livedata & Glide
 
-An E-Commmerce using the latest tech to buy items of different categories.
+An E-Commmerce using the latest tech and payment integration to buy items of different categories.
